@@ -8,3 +8,6 @@
 DracAhmed/DracAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Week 2 cpp :
+A cheese container can hold 2.76 kg of cheese. Each evening, a fromager ships containers of cheese to a local grocery store. The cost of producing one container of cheese is $4.12, and the profit of each container of cheese is $1.45. My program shows the output of the containers required, total cost and profit from them. It takes the data from an input text file. 
