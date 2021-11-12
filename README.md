@@ -20,3 +20,7 @@ less than 50			6				8				10				15
 50 to 100				9				12				14				20
 100 to 150			12				15				17				25
 over 150				free			free			free			free
+
+
+vowel_gh:
+It is mainly a vowel counter. The program counts the total number of vowel in a file. The file is also used along side vowel_gh.exe on the command line of the console window. Also it prints out an error message if the file is missing. At the same time, I have added three more letters: B,C, and D. I as a result, I can know their number too. 
