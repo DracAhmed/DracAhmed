@@ -24,3 +24,11 @@ over 150				free			free			free			free
 
 vowel_gh:
 It is mainly a vowel counter. The program counts the total number of vowel in a file. The file is also used along side vowel_gh.exe on the command line of the console window. Also it prints out an error message if the file is missing. At the same time, I have added three more letters: B,C, and D. As a result, I can know those numbers too. 
+
+
+surf shop gh:
+Johnny Utah owns a surf shop on the beach called “Point Break Surf Shop”.  Johnny sells surfboards in 4 three sizes: small (2 meters), medium (3 meters), and large (4 meters) and squirrel surf(50cm). The cost of one small surfboard is $175.00, one medium is $190.00, and one large is $200.00, squirrel size is $100.00
+The program should allow the user to do the following:
+1. Buy any surfboard in any sizeand in any quanity.
+2. At any time show the total number of surfboards of each size sold.
+3. At any time show the total money made.
