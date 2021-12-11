@@ -55,3 +55,16 @@ Sunny 77 31 52 74 90
 Sammy 93 94 289 277 100
 AliceB 279 185 128 93 120
 MikeSmith 85 72 49 75 140
+
+
+week 7 gh:
+This is a modified program of my last submission-array problem gh
+The program must use one structure that contains the following member variables :
+1)a string data type that will hold the name of the bowler.
+2)a one - dimensional array of integers to store the bowler's 5 scores.
+3)an integer to hold the average bowling score.
+Your program must create and use an array of the structures mentioned previously.
+Your program must contain at least the following functions :
+an Boolean returning function called GetBowlingData to read and store data into an array of structures. The function should take as input parameters the file name and an empty array of structures, which it should fill from the file(BowlingScores.txt- it is the same file from the previous problem) and return a status of either success or failure(i.e. true or false).
+a void function called GetAverageScore that is used to calculate the average bowling score. The function should take as input the array of structures which it should fill with the average score of each bowler.
+a void function called PrettyPrintResults to output the results, i.e.bowler name, scoresand average.
